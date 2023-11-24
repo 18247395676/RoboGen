@@ -1,3 +1,4 @@
+#Heat_up_a_bowl_of_soup_in_microwave_The_robot_arm_places_a_bowl_of_soup_inside_the_microwave_closes_the_door_and_sets_the_microwave_timer_to_heat_the_soup_for_an_appropriate_amount_of_time
 - use_table: true
 - center: (0.7, 0.6, 0)
   lang: a common microwave
