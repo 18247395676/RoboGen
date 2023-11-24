@@ -7,4 +7,3 @@ primitive_states/
 all_last_state_files_*.txt
 all*.gif
 env_construction/
-example_tasks/Turning_On_Coffee_Machine/task_Turning_On_Coffee_Machine/turn_the_knob_to_the_"on"_setting.py
